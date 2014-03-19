@@ -1,0 +1,9 @@
+{
+    "name": "DataImport",
+    "version": "0.1.0",
+    "main": "./lib/index.js",
+    "dependencies": {
+        "line-reader": "0.2.3"
+        , "mongoose": "3.8.8"
+    }
+}
